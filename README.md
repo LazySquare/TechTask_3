@@ -8,3 +8,5 @@
 ![Диаграмма последовательности](https://github.com/LazySquare/TechTask_3/assets/167713992/ec8afaee-a9c3-4d3e-8ca0-3cd22c8f2a08)
 ## Диаграмма состояний
 ![Диаграмма состояний](https://github.com/LazySquare/TechTask_3/assets/167713992/56733779-4170-4df3-851b-406633db3c3e)
+## Диаграмма деятельности
+![Диаграмма деятельности](https://github.com/LazySquare/TechTask_3/assets/167713992/986da0d7-7022-42d2-9875-5e0c0e9997a3)
