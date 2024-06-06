@@ -10,3 +10,5 @@
 ![Диаграмма состояний](https://github.com/LazySquare/TechTask_3/assets/167713992/56733779-4170-4df3-851b-406633db3c3e)
 ## Диаграмма деятельности
 ![Диаграмма деятельности](https://github.com/LazySquare/TechTask_3/assets/167713992/986da0d7-7022-42d2-9875-5e0c0e9997a3)
+## Диаграмма классов
+![Диаграмма классов](https://github.com/LazySquare/TechTask_3/assets/167713992/c4ce558a-fcef-4554-9848-4133f2dc7df9)
