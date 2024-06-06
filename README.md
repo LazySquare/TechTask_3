@@ -5,4 +5,4 @@
 ## Диаграмма вариантов использования
 ![useCase](https://github.com/LazySquare/TechTask_3/assets/167713992/1fb3c915-2ba1-4327-8474-87405f4624c1)
 ## Диаграмма последовательности
-[диаграмма последовательностей.pdf](https://github.com/user-attachments/files/15625334/default.pdf)
+![Диаграмма последовательности](https://github.com/LazySquare/TechTask_3/assets/167713992/ec8afaee-a9c3-4d3e-8ca0-3cd22c8f2a08)
