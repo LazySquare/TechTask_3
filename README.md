@@ -7,4 +7,4 @@
 ## Диаграмма последовательности
 ![Диаграмма последовательности](https://github.com/LazySquare/TechTask_3/assets/167713992/ec8afaee-a9c3-4d3e-8ca0-3cd22c8f2a08)
 ## Диаграмма состояний
-![Диаграмма состояний](https://github.com/LazySquare/TechTask_3/assets/167713992/598f3e8f-a643-4a65-bce0-a9500eb494b7)
+![Диаграмма состояний](https://github.com/LazySquare/TechTask_3/assets/167713992/56733779-4170-4df3-851b-406633db3c3e)
