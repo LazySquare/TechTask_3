@@ -6,3 +6,5 @@
 ![useCase](https://github.com/LazySquare/TechTask_3/assets/167713992/1fb3c915-2ba1-4327-8474-87405f4624c1)
 ## Диаграмма последовательности
 ![Диаграмма последовательности](https://github.com/LazySquare/TechTask_3/assets/167713992/ec8afaee-a9c3-4d3e-8ca0-3cd22c8f2a08)
+## Диаграмма состояний
+![Диаграмма состояний](https://github.com/LazySquare/TechTask_3/assets/167713992/598f3e8f-a643-4a65-bce0-a9500eb494b7)
